@@ -1,0 +1,51 @@
+[{
+  "id": 1,
+  "title": "Charmander",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+  "strength": 30
+}, {
+  "id": 2,
+  "title": "Pikachu",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+  "strength": 50
+}, {
+  "id": 3,
+  "title": "Pidgeotto",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png",
+  "strength": 80
+}, {
+  "id": 4,
+  "title": "Raichu",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+  "strength": 100
+}, {
+  "id": 5,
+  "title": "Clefairy",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+  "strength": 20
+}, {
+  "id": 6,
+  "title": "Gloom",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png",
+  "strength": 10
+}, {
+  "id": 7,
+  "title": "Venonat",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png",
+  "strength": 30
+}, {
+  "id": 8,
+  "title": "Psyduck",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png",
+  "strength": 40
+}, {
+  "id": 9,
+  "title": "Machoke",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png",
+  "strength": 90
+}, {
+  "id": 10,
+  "title": "Slowbro",
+  "imageUrl": "http://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png",
+  "strength": 50
+}]
