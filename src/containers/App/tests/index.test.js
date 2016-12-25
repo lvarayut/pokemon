@@ -11,7 +11,7 @@ describe('App', () => {
     ReactDOM.render(<App />, div);
   });
 
-  it('should render a navbar with a title nad navItems properties', () => {
+  it('should render a navbar with a title and navItems properties', () => {
     const wrapper = shallow(<App />);
     const navbar = wrapper.find(Navbar);
 

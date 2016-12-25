@@ -19,7 +19,7 @@ $ npm start            # Start a server
 ```
 ├── public                           - All public assets resides in this folder
 ├── src                              - All source files resides in this folder
-│   ├── components                   - Dump components
+│   ├── components                   - Dumb components
 │   ├── containers                   - Smart components
 │   ├── data                         - Mock-up data
 │   ├── enhancers                    - Higher order components
